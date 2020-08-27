@@ -1,0 +1,19 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Readme file",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intyro/starwars-names.git"
+  },
+  "author": "Moath <Moat@yahooh> (https://egghead.io/courses/how-to-write-an-open-source-javascript-library)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intyro/starwars-names/issues"
+  },
+  "homepage": "https://github.com/intyro/starwars-names#readme"
+}
