@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/intyro/starwars-names/issues"
   },
-  "homepage": "https://github.com/intyro/starwars-names#readme"
+  "homepage": "https://github.com/intyro/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "^2.0.0"
+  }
 }
