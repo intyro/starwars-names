@@ -33,7 +33,7 @@
   },
   "config": {
     "ghooks": {
-      "pre-commit": "test:single"
+      "pre-commit": "npm run test:single"
     }
   }
 }
