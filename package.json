@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
+    "babel-loader": "^8.1.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "chai": "^4.2.0",
@@ -34,8 +35,10 @@
     "cz-conventional-changelog": "^3.3.0",
     "ghooks": "^2.0.4",
     "istanbul": "^0.4.5",
+    "json-loader": "^0.5.7",
     "mocha": "^8.1.2",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "webpack": "^4.44.1"
   },
   "files": [
     "dist",
